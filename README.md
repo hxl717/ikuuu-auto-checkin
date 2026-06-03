@@ -22,8 +22,9 @@
   ```
 
 - **HOST**: iKuuu 的域名，不设置时默认为 `ikuuu.win`，iKuuu 更改域名时必须同步修改。iKuuu 经常更换域名，需要随时注意修改。
-- **TELEGRAM_TOKEN**: （可选）Telegram 通知的 Bot Token。
-- **TELEGRAM_TO**: （可选）Telegram 通知的 Chat ID。
+<!-- - **TELEGRAM_TOKEN**: （可选）Telegram 通知的 Bot Token。
+- **TELEGRAM_TO**: （可选）Telegram 通知的 Chat ID。-->
+- **PUSH_PLUS_TOKEN**：（可选）PushPlustoken推送。
 
 ### 使用方法
 
